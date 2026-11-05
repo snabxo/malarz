@@ -1,2 +1,2 @@
 # Malarz
-## Machine Learning with Python Workshop
+## Machine Learning (I Love Python!!!)
